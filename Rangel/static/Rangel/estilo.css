@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #ffcccc;
+    background-color: #8fdc30;
     color: #333;
 }
 
 /* ENCABEZADO */
 header {
-    background-color: plum;
+    background-color: rgb(12, 29, 138);
     color: black;
     text-align: center;
     padding: 20px;
@@ -15,7 +15,7 @@ header {
 
 /* MENÚ */
 nav {
-    background-color: #c184aa;
+    background-color: #18a067;
     padding: 10px;
 }
 nav ul {
@@ -29,18 +29,18 @@ nav li {
 }
 
 nav a {
-    color: white;
+    color: rgb(11, 226, 242);
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ffcccc;
+    color: #062a17;
 }
 
 /* CONTENIDO PRINCIPAL */
 .bienvenida {
-    background-color: white;
+    background-color: rgb(143, 57, 57);
     text-align: center;
     padding: 50px 20px;
     margin: 30px;
@@ -48,7 +48,7 @@ nav a:hover {
 }
 
 .bienvenida h2 {
-    color: purple;
+    color: rgb(0, 128, 113);
 }
 
 .bienvenida p {
@@ -58,8 +58,8 @@ nav a:hover {
 
 /* PIE DE PÁGINA */
 footer {
-    background-color: purple;
-    color: white;
+    background-color: rgb(20, 176, 238);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 15px;
 }
